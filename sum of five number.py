@@ -1,0 +1,6 @@
+number_1 = float(input())
+number_2 = float(input())
+number_3 = float(input())
+number_4 = float(input())
+number_5 = float(input())
+print(abs(number_1) + abs(number_2) + abs(number_3) + abs(number_4) + abs(number_5))
